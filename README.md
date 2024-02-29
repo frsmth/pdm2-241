@@ -1,4 +1,4 @@
-# Programação a Dispositivos Moveis
+# Programação de Dispositivos Moveis
 
 - Nome: Antonio Abner Soares Jeronimo
 - Turma: P5 de Informática
