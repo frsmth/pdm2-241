@@ -14,5 +14,5 @@
 # d) atualizar_aluno atualiza um registro da tabela TB_ALUNO a partir de um campo id e dos dados de uma entidade aluno; 
 ![GET_ListarUmAluno](https://github.com/user-attachments/assets/c7b6ad4b-610e-41a7-a0a3-ab2379ba991d)
 
-#e) excluir_aluno exclui um registro da tabela TB_ALUNO a partir de um campo id e dos dados de uma entidade aluno;
+# e) excluir_aluno exclui um registro da tabela TB_ALUNO a partir de um campo id e dos dados de uma entidade aluno;
 ![DELETE_DeletarAluno](https://github.com/user-attachments/assets/8ef68f9c-6ebe-4282-a16f-e3b2235f2efd)
