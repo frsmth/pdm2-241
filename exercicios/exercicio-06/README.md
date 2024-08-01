@@ -1,4 +1,4 @@
-
+# 3) Crie os seguintes endpoints FASTAPI abaixo descritos: 
 # a) criar_aluno grava dados de um objeto aluno na tabela TB_ALUNO;
 ![Criar_Aluno](https://github.com/user-attachments/assets/d1cc9e4f-40ba-4f8f-8c51-5f563cdd533e)
 
