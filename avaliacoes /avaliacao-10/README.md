@@ -1,14 +1,14 @@
 # AVALIAÇÃO 10:
 
-![image](https://github.com/user-attachments/assets/6d1774a8-0955-47e0-91cd-bc953d2979cb)
+![image](https://github.com/user-attachments/assets/e95623e5-328a-4e1f-b4d8-5e7f6e960c55)
+
 
 
 ### CASO 1: invalida os campos não preenchidos corretamente
-![image](https://github.com/user-attachments/assets/bc65d65d-18e9-4ab6-872e-ae3aa2213c59)
+![image](https://github.com/user-attachments/assets/4899b98d-e95a-4778-b38c-e03c9651fab9)
+
 
 
 ### CASO 2: funcionando
-![image](https://github.com/user-attachments/assets/920926bc-c26a-47a4-bce5-61321abc8f3b)
-
-
+![image](https://github.com/user-attachments/assets/22ab52e2-b608-43be-9f63-7e59a39f2c00)
 
